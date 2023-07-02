@@ -1,0 +1,2 @@
+# Improvising-the-Stock-Prediction-by-Integrating-with-roBERTa-and-LSTM
+We have proposed a method that performs  sentiment analysis on a recently exposed firm using a dataset  of two main factors, namely the Twitter data and the time-series data. We have overcame the problem of shortselling by integrating with realworld data which has been extracted from a highly-trusted social media around the globe.
